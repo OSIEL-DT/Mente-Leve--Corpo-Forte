@@ -37,11 +37,6 @@ A plataforma **Mente Leve, Corpo Fit** foi desenvolvida para:
 - Newsletter interativa (simulada)
 - Design emocional com foco em bem-estar e acolhimento
 
-## 📷 Preview
-
-![Preview do site](https://via.placeholder.com/1000x500?text=Preview+do+Site)
-
-> *Imagem meramente ilustrativa. Substitua pelo link real caso publique o site.*
 
 ## 📬 Contato
 
