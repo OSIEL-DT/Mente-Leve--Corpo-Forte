@@ -1,0 +1,15 @@
+🎨 Visual Design:
+Soft pastel colors (mint green, lavender, sand), clean layout with the Poppins font, and plenty of breathing room
+
+🏠 Complete Structure:
+ All the sections you requested - Home, About, Content, Stories, Contact, plus Newsletter signup
+
+💚 Welcoming Tone: 
+Motivational phrases, empathetic messaging, and a focus on self-care without guilt
+
+📱Fully Responsive: 
+Works beautifully on all devices
+
+✨ Interactive Elements: Working navigation, forms, newsletter signup, and smooth scrolling
+
+The site emphasizes the three pillars (light mind, active body, conscious eating) and includes testimonials, content categories, and clear calls-to-action. Try clicking the "Comece sua jornada" button to see the smooth navigation in action!
