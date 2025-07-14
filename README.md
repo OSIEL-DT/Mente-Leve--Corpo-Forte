@@ -1,4 +1,4 @@
-# 🌱 Mente Leve, Corpo Fit
+# 🌱 Mente Leve, Corpo Forte
 
 **Transforme sua vida com leveza, propósito e bem-estar.**
 
