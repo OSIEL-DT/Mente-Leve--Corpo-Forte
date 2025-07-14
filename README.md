@@ -6,7 +6,7 @@ Este é um projeto de site responsivo focado em promover equilíbrio entre corpo
 
 ## 📌 Visão Geral
 
-A plataforma **Mente Leve, Corpo Fit** foi desenvolvida para:
+A plataforma **Mente Leve, Corpo Forte** foi desenvolvida para:
 
 - Motivar pessoas a adotarem hábitos mais saudáveis com leveza.
 - Oferecer conteúdos sobre saúde mental, atividade física e nutrição.
